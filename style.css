@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+p {
+ color:blue 
+}
+.destacado{
+  font-style:italic;
+  color:red
+}  
